@@ -1,0 +1,45 @@
+.solid {
+    border-style: solid;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+    border-width: 2px;
+    background-color: #fff ;
+    border-color:black;
+
+}
+div.header {
+    border-style: solid;
+    border-color: black;
+    /* background-color:black ; */
+    background: black;
+    text-align: center;
+    color: #fff;
+    /* color: whitesmoke;  */
+    /* padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px; */
+    
+ 
+}
+img{
+    width: 125px;
+    height: 125px;
+
+}
+.button{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    width: 86px;
+    height: 36px;
+
+
+}
+
+
+
